@@ -1,0 +1,20 @@
+#content-div{
+    height: 4000px;
+    width: 80%;
+    margin: 20px auto ;
+    background-color: azure;
+    padding: 0px;
+}
+#content-div #contant-nav-div{
+    height: 4000px;
+    width: 100%;
+    margin-right:2%;
+    background-color: blanchedalmond;
+    padding: 0px;
+    float: left;
+}
+
+#content-div #contant-nav-div p{
+    padding-top: 8px;
+    font-size: 20px;
+}
